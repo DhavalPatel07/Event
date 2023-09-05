@@ -1,12 +1,12 @@
 var $ = jQuery.noConflict();
 $(document).ready(function() {
 
-/*  $(window).ready(function(){
+  $(window).ready(function(){
     setInterval(function(){ 
       $('body').addClass("showpage")
     }, 5000);
 
-  });*/
+  });
 
   /*Ctm Popup*/
    $(".formopen").click(function(e){

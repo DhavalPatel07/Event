@@ -246,7 +246,7 @@ body.showpage .loader-wrap{
 .del3 { -webkit-animation-delay: 0.9s !important; animation-delay: 0.9s !important; }
 
 
-/*body{ overflow: hidden; }*/
+body{ overflow: hidden; }
 body.showpage { overflow: auto; }
 /*Loader*/
 .fullwidth { width: 100%; position: relative; padding-bottom: 100px; z-index: 50; }
