@@ -1,0 +1,47 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1236 350" width="100%" height="100%" xml:space="preserve">
+<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M71.4 140.1V97.5M71.4 98.5h497M1163.8 140.1V97.5v42.6zM1164.8 97.5H667.7M73 280.4V323M73 323h421M1164.4 323H742M83 201.3v-90.6M82 110.7h498.8M1151.4 201v-90.6M1152.4 110.4H653.6M83 220.6v90.6M82 311.2h425M1151.4 220.9v90.6M1152.4 311.5H729M594 122.3H95.4M95.4 122.3v177.3M94.4 299.6H520M640.9 122.3h498.6M1139.5 122.3v177.3M1139.5 299.6H714.9" class="svg-elem-1"></path>
+<path transform="rotate(-45.001 617.445 99.75)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M606.2 88.5h22.6v22.6h-22.6z" class="svg-elem-2"></path>
+<path transform="rotate(-45.001 617.445 84.947)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M610.2 77.7h14.4v14.4h-14.4z" class="svg-elem-3"></path>
+<path transform="rotate(-45.001 617.445 114.943)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M610.2 107.7h14.4v14.4h-14.4z" class="svg-elem-4"></path>
+<path class="st0 svg-elem-5" d="M617.4 115.7v9.4M617.4 49.5v34.3"></path>
+<path transform="rotate(-134.999 1089.225 212.656)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M1077.9 201.4h22.6V224h-22.6z" class="svg-elem-6"></path>
+<path transform="rotate(-134.999 1074.422 212.656)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M1067.2 205.5h14.4v14.4h-14.4z" class="svg-elem-7"></path>
+<path transform="rotate(-134.999 1104.418 212.656)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M1097.2 205.5h14.4v14.4h-14.4z" class="svg-elem-8"></path>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M1105.2 212.7h100.1M1038.9 212.7h34.4" class="svg-elem-9"></path>
+<path transform="rotate(-45.001 147.755 210.97)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M136.5 199.7h22.6v22.6h-22.6z" class="svg-elem-10"></path>
+<path transform="rotate(-45.001 162.558 210.97)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M155.4 203.8h14.4v14.4h-14.4z" class="svg-elem-11"></path>
+<path transform="rotate(-45.001 132.562 210.97)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M125.4 203.8h14.4v14.4h-14.4z" class="svg-elem-12"></path>
+<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M131.8 211H31.7M198 211h-34.3M1163.8 323.4v-42.6 42.6z" class="svg-elem-13"></path>
+</svg>
+
+
+<style type="text/css">
+body { background: #000; }	
+svg .svg-elem-1 {stroke-dashoffset: 6420.30078125px; stroke-dasharray: 6420.30078125px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-1 {stroke-dashoffset: 0; }
+svg .svg-elem-2 {stroke-dashoffset: 92.39994812011719px; stroke-dasharray: 92.39994812011719px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-2 {stroke-dashoffset: 0; }
+svg .svg-elem-3 {stroke-dashoffset: 59.60005187988281px; stroke-dasharray: 59.60005187988281px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-3 {stroke-dashoffset: 0; }
+svg .svg-elem-4 {stroke-dashoffset: 59.60005187988281px; stroke-dasharray: 59.60005187988281px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-4 {stroke-dashoffset: 0; }
+svg .svg-elem-5 {stroke-dashoffset: 45.70000457763672px; stroke-dasharray: 45.70000457763672px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-5 {stroke-dashoffset: 0; }
+svg .svg-elem-6 {stroke-dashoffset: 92.39996337890625px; stroke-dasharray: 92.39996337890625px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-6 {stroke-dashoffset: 0; }
+svg .svg-elem-7 {stroke-dashoffset: 59.60003662109375px; stroke-dasharray: 59.60003662109375px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-7 {stroke-dashoffset: 0; }
+svg .svg-elem-8 {stroke-dashoffset: 59.60003662109375px; stroke-dasharray: 59.60003662109375px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-8 {stroke-dashoffset: 0; }
+svg .svg-elem-9 {stroke-dashoffset: 136.5px; stroke-dasharray: 136.5px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-9 {stroke-dashoffset: 0; }
+svg .svg-elem-10 {stroke-dashoffset: 92.4000244140625px; stroke-dasharray: 92.4000244140625px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-10 {stroke-dashoffset: 0; }
+svg .svg-elem-11 {stroke-dashoffset: 59.5999755859375px; stroke-dasharray: 59.5999755859375px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-11 {stroke-dashoffset: 0; }
+svg .svg-elem-12 {stroke-dashoffset: 59.59999084472656px; stroke-dasharray: 59.59999084472656px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-12 {stroke-dashoffset: 0; }
+svg .svg-elem-13 {stroke-dashoffset: 221.6000213623047px; stroke-dasharray: 221.6000213623047px; -webkit-transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; transition: stroke-dashoffset 2s cubic-bezier(0.86, 0, 0.07, 1) 0s; }
+svg.active .svg-elem-13 {stroke-dashoffset: 0; }  
+</style>
