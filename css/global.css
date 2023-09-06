@@ -539,6 +539,10 @@ video {min-width: 100%; min-height: 100vh; z-index: 1; }
     .site-footer:after { height: 150px; width: 150px; }
     .site-footer { padding: 60px 0; }
 
+    .image-wrap .anim1 { width: 100px; top: 26%; }
+	.image-wrap .anim2 { width: 100px; top: 15%; }
+	.image-wrap .anim3 { width: 110px; top: 7%; }
+
 }
 @media(max-width: 767px){
 	.clock-item { height: 100px; width: 100px; }
