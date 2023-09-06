@@ -575,7 +575,7 @@ video {min-width: 100%; min-height: 100vh; z-index: 1; }
 	.clock-item { margin-bottom: 15px; }
 }
 @media(max-width: 400px){
-	.titletext {top: 18%; }
+	.titletext { top: 20%; }
 	.titletext h2 strong:before { top: -2px; }
 	.loader-wrap p { padding: 10px 20px; font-size: 16px; line-height: 1.1; }
 	.bgimage video { left: initial; right: -140vw; }
@@ -584,7 +584,7 @@ video {min-width: 100%; min-height: 100vh; z-index: 1; }
 	.bgimage video { left: initial; right: -100vw; }
 	.titletext h2 {font-size: 18px; }
 	.titletext h2 strong:before { top: -2px; }
-	.titletext {top: 18%; }
+	.titletext {top: 20%; }
 	.titletext h2 strong:before { top: -2px; }
 	.loader-wrap p { padding: 10px 20px; font-size: 16px; line-height: 1.1; }
 }
