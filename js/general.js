@@ -9,7 +9,7 @@ $(document).ready(function() {
   });
 
   /*Ctm Popup*/
-   $(".formopen").click(function(e){
+   $(".formopen a").click(function(e){
       e.preventDefault()
       $("body").addClass("hidescroll");
       $(".ctm-dvl-popup").show();
